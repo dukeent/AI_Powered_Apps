@@ -1,0 +1,172 @@
+[
+  {
+    "safety_precautions": [
+      "Wear insulated gloves to prevent electric shock.",
+      "Use safety goggles to protect eyes from debris.",
+      "Ensure the vehicle is powered off and the key is removed from the ignition.",
+      "Follow lockout/tagout procedures to ensure high-voltage systems are de-energized.",
+      "Be aware of the weight of the battery module; use proper lifting techniques or mechanical aids."
+    ],
+    "required_tools": [
+      "Torque wrench (set to 30 Nm for fasteners)",
+      "Insulated socket set (for high-voltage connections)",
+      "Battery module lifting tool or hoist",
+      "Multimeter (for voltage verification)",
+      "Safety knife (for packaging removal)"
+    ],
+    "steps": [
+      "1. Prepare the rear compartment by removing any covers or obstructions.",
+      "2. Carefully lift the battery module using the lifting tool or hoist, ensuring it is stable.",
+      "3. Position the battery module into the rear compartment, aligning it with the mounting brackets.",
+      "4. Secure the battery module by inserting the fasteners into the designated holes.",
+      "5. Using the torque wrench, tighten each fastener to a torque specification of 30 Nm.",
+      "6. Connect the high-voltage harness to the battery module, ensuring a secure and proper fit.",
+      "7. Verify the connection by checking for any visible gaps or misalignments.",
+      "8. Use a multimeter to check the voltage at the battery terminals to ensure proper connection.",
+      "9. Replace any covers or panels that were removed during the installation process."
+    ],
+    "acceptance_checks": [
+      "Check that all fasteners are torqued to 30 Nm; any fastener not meeting this specification fails.",
+      "Inspect the high-voltage harness connection for secure fit; any loose connection fails.",
+      "Verify that the voltage reading at the battery terminals is within the expected range (e.g., 400-450V); readings outside this range fail.",
+      "Ensure no physical damage is present on the battery module or harness; any damage fails the inspection."
+    ],
+    "task_id": "TASK-001",
+    "description": "Install the battery module in the rear compartment, connect to the high-voltage harness, and verify torque on fasteners."
+  },
+  {
+    "safety_precautions": [
+      "Wear safety glasses to protect eyes from debris.",
+      "Use gloves to prevent skin contact with chemicals.",
+      "Ensure the vehicle is securely parked and cannot roll.",
+      "Be aware of the surrounding area to avoid tripping hazards.",
+      "Follow all electrical safety protocols when connecting/disconnecting sensors."
+    ],
+    "required_tools": [
+      "Calibration tool kit including alignment targets",
+      "Torque wrench with a range of 0-100 Nm",
+      "Digital multimeter for electrical checks",
+      "Laptop with calibration software installed",
+      "Measuring tape (at least 3 meters long)",
+      "Leveling tool to ensure proper alignment"
+    ],
+    "steps": [
+      "Park the vehicle on a flat, level surface to ensure accurate calibration.",
+      "Remove any obstructions from the front bumper area to access the radar sensors.",
+      "Using the measuring tape, measure 1 meter from the front of the vehicle and mark this point on the ground.",
+      "Position the factory alignment targets at the marked point, ensuring they are level and stable.",
+      "Connect the calibration tool to the vehicle's OBD-II port to access the ADAS system.",
+      "Launch the calibration software on the laptop and follow the on-screen instructions to initiate the calibration process.",
+      "Adjust the radar sensor's angle using the torque wrench to the specified torque of 30 Nm as per the manufacturer's specifications.",
+      "Verify the alignment of the radar sensors with the targets using the leveling tool.",
+      "Complete the calibration process in the software and save the settings.",
+      "Disconnect the calibration tool and ensure all tools are removed from the vehicle."
+    ],
+    "acceptance_checks": [
+      "Check that the radar sensor is aligned within \u00b11 degree of the specified angle.",
+      "Verify that the calibration software indicates a successful calibration with no error codes.",
+      "Ensure that the alignment targets are positioned correctly and stable during the calibration process.",
+      "Confirm that all connections are secure and that there are no loose wires or components.",
+      "Perform a functional test of the ADAS system to ensure it operates correctly post-calibration."
+    ],
+    "task_id": "TASK-002",
+    "description": "Calibrate the ADAS (Advanced Driver Assistance Systems) radar sensors on the front bumper using factory alignment targets."
+  },
+  {
+    "safety_precautions": [
+      "Wear safety goggles to protect eyes from splashes.",
+      "Use gloves to prevent skin contact with sealant.",
+      "Ensure proper ventilation in the work area to avoid inhaling fumes.",
+      "Follow all Material Safety Data Sheet (MSDS) guidelines for the sealant."
+    ],
+    "required_tools": [
+      "Airless spray gun for even application of sealant.",
+      "Paintbrush for detailed areas and touch-ups.",
+      "Masking tape to protect areas not to be sealed.",
+      "Drop cloths to catch any drips or spills.",
+      "Personal protective equipment (PPE) including gloves, goggles, and respirator."
+    ],
+    "steps": [
+      "Prepare the work area by laying down drop cloths to protect the floor.",
+      "Use masking tape to cover any areas on the door panels that should not receive sealant.",
+      "Inspect all exposed welds on the door panels for cleanliness and ensure they are free of rust and debris.",
+      "Set up the airless spray gun according to the manufacturer's specifications, ensuring the nozzle size is appropriate for the sealant being used.",
+      "Apply the anti-corrosion sealant evenly to all exposed welds, maintaining a distance of 6-12 inches from the surface.",
+      "For areas that are difficult to reach with the spray gun, use a paintbrush to apply sealant directly to the welds.",
+      "Allow the sealant to cure as per the manufacturer's instructions, typically 30 minutes to 1 hour before handling.",
+      "Remove masking tape carefully to avoid pulling off any sealant.",
+      "Inspect the application for even coverage and ensure no welds are left exposed."
+    ],
+    "acceptance_checks": [
+      "Check that all exposed welds have a uniform layer of sealant without gaps.",
+      "Verify that the sealant has cured properly and is not tacky to the touch.",
+      "Ensure that no areas were missed during application, particularly in corners and crevices.",
+      "Confirm that masking tape was removed cleanly without damaging the surrounding paint."
+    ],
+    "task_id": "TASK-003",
+    "description": "Apply anti-corrosion sealant to all exposed welds on the door panels before painting."
+  },
+  {
+    "safety_precautions": [
+      "Wear safety goggles to protect eyes from coolant splashes.",
+      "Use gloves to prevent skin contact with coolant, which can be harmful.",
+      "Ensure the work area is well-ventilated to avoid inhaling fumes.",
+      "Be cautious of hot engine components; allow the engine to cool before starting the test."
+    ],
+    "required_tools": [
+      "Coolant pressure tester with a gauge capable of measuring up to 30 psi.",
+      "Radiator cap adapter compatible with the vehicle's radiator.",
+      "Digital thermometer to monitor coolant temperature.",
+      "Recording device (notepad or digital device) for documenting pressure readings."
+    ],
+    "steps": [
+      "Ensure the vehicle is parked on a level surface and the engine is cool.",
+      "Remove the radiator cap carefully to avoid pressure release injuries.",
+      "Attach the coolant pressure tester to the radiator neck using the appropriate adapter.",
+      "Pump the pressure tester to the specified pressure of 15 psi, as per manufacturer specifications.",
+      "Observe the pressure gauge for any drop in pressure over a 5-minute period.",
+      "If the pressure drops, inspect the coolant system for leaks, including hoses, connections, and the radiator itself.",
+      "Record the initial pressure reading and any observations regarding leaks.",
+      "If no leaks are found, release the pressure slowly and remove the tester.",
+      "Replace the radiator cap securely after the test is complete."
+    ],
+    "acceptance_checks": [
+      "Initial pressure reading should be 15 psi; pass if within \u00b11 psi of this value.",
+      "No pressure drop should occur within 5 minutes; pass if pressure remains stable.",
+      "Visual inspection for leaks should show no signs of coolant escaping; pass if no leaks are detected."
+    ],
+    "task_id": "TASK-004",
+    "description": "Perform leak test on coolant system after radiator installation. Record pressure readings and verify against specifications."
+  },
+  {
+    "safety_precautions": [
+      "Wear anti-static wrist strap to prevent electrostatic discharge (ESD) damage to the ECU.",
+      "Ensure the work area is clean and free of any conductive materials.",
+      "Follow lockout/tagout procedures when working with electrical systems."
+    ],
+    "required_tools": [
+      "Laptop with ECU programming software installed",
+      "OBD-II diagnostic tool for connectivity testing",
+      "USB cable for connecting the laptop to the ECU",
+      "Anti-static wrist strap"
+    ],
+    "steps": [
+      "1. Power off the vehicle and disconnect the battery to ensure safety.",
+      "2. Connect the laptop to the infotainment ECU using the USB cable.",
+      "3. Launch the ECU programming software on the laptop.",
+      "4. Select the latest software package from the software repository.",
+      "5. Follow the on-screen instructions to upload the software package to the ECU.",
+      "6. Once the upload is complete, disconnect the USB cable.",
+      "7. Reconnect the vehicle battery and power on the vehicle.",
+      "8. Use the OBD-II diagnostic tool to check for any error codes.",
+      "9. Validate connectivity by navigating through the dashboard display and ensuring all infotainment features are operational."
+    ],
+    "acceptance_checks": [
+      "Check for any error codes using the OBD-II diagnostic tool; pass if no error codes are present.",
+      "Verify that the infotainment system boots up correctly and displays the main menu; pass if the main menu is displayed within 10 seconds.",
+      "Test all connectivity features (Bluetooth, USB, etc.) to ensure they function correctly; pass if all features connect without issues."
+    ],
+    "task_id": "TASK-005",
+    "description": "Program the infotainment ECU with the latest software package and validate connectivity with dashboard display."
+  }
+]

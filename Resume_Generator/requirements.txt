@@ -1,0 +1,7 @@
+# AI-Powered Resume Generator Requirements
+
+# LLaMA C++ Python bindings for local model execution
+llama-cpp-python>=0.2.0
+
+# Optional: For GPU acceleration (uncomment if needed)
+# CMAKE_ARGS="-DLLAMA_CUBLAS=on" pip install llama-cpp-python

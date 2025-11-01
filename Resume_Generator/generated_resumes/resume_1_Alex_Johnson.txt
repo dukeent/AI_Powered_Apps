@@ -1,0 +1,35 @@
+Alex Johnson
+
+Contact Information:
+
+Email: alex.johnson@email.com
+Phone: +1 (555) 123-4567
+
+Professional Summary:
+
+As a seasoned software engineer with 7 years of experience, I am passionate about creating scalable web applications and leading development teams to success. With expertise in Python, JavaScript, React, Node.js, Docker, AWS, MongoDB, and Git, I have consistently delivered high-quality solutions that exceed client expectations. My experience in mentoring junior developers has also honed my leadership skills, enabling me to effectively manage teams and projects.
+
+Skills:
+
+* Python
+* JavaScript
+* React
+* Node.js
+* Docker
+* AWS
+* MongoDB
+* Git
+
+Work Experience:
+
+Senior Software Engineer, TechCorp Inc. (2020-Present)
+
+* Led development of microservices architecture, resulting in a 40% improvement in system performance
+* Collaborated with cross-functional teams to deliver high-quality software solutions
+* Mentored junior developers, providing guidance and support to help them grow professionally
+
+Software Engineer, StartupXYZ (2017-2020)
+
+* Developed full-stack web applications using Python, JavaScript, and React
+* Worked closely with designers and product managers to ensure software met client requirements
+* Mentored junior developers, providing guidance and support to help them grow professionally

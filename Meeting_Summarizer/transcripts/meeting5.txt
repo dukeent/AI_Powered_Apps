@@ -1,0 +1,11 @@
+[15:45 PM - Team Training Planning]
+Rachel: Today we'll plan our Q4 training schedule.
+James: We need to focus on the new tech stack.
+Sophie: Several team members requested cloud certification training.
+Rachel: Good point. What specific certifications?
+James: Azure and AWS are priorities.
+Sophie: Also need React and Node.js workshops.
+Rachel: Let's schedule weekly sessions.
+James: I can lead the cloud sessions.
+Sophie: I'll handle the frontend workshops.
+Rachel: Perfect. Let's start next week.

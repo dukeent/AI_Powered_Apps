@@ -1,0 +1,121 @@
+Summary for: transcripts/meeting1.txt
+================================================================================
+**Meeting Summary: Product Team Standup**
+
+1. **Main Topics Discussed:**
+   - Sprint progress updates from team members.
+   - Status of the user authentication module and dashboard UI.
+   - Clarification needed on chart requirements.
+
+2. **Key Decisions Made:**
+   - John will provide the final design specifications for the charts by noon.
+
+3. **Action Items and Assignments:**
+   - John to share the final design specs for the charts with Mike.
+   - Mike to continue working on the dashboard UI and seek clarification as needed.
+
+4. **Important Deadlines Mentioned:**
+   - The deadline for sharing the final design specs is by noon today.
+
+Summary for: transcripts/meeting2.txt
+================================================================================
+**Meeting Summary: Client Review Meeting (14:30 PM)**
+
+1. **Main Topics Discussed:**
+   - Review of Q3 project deliverables.
+   - Implementation of new features, specifically real-time analytics, custom reporting, and mobile responsiveness.
+
+2. **Key Decisions Made:**
+   - The client expressed satisfaction with the implemented features and confirmed that their requirements have been met.
+
+3. **Action Items and Assignments:**
+   - Tom is responsible for the mobile version release scheduled for next week.
+   - Emma will prepare and provide detailed documentation and training materials for the client.
+
+4. **Important Deadlines Mentioned:**
+   - The mobile version is set to be released next week.
+
+Summary for: transcripts/meeting_transcript.txt
+================================================================================
+**Meeting Summary: Project Sync Meeting**
+
+**1. Main Topics Discussed:**
+- Progress update on the AI chatbot project.
+- Status of backend and frontend development.
+- Issues encountered with frontend display of chatbot suggestions.
+
+**2. Key Decisions Made:**
+- It was decided that Trang will fix the frontend display issues today.
+- Anna will request Huy to provide Trang with the necessary access from DevOps.
+
+**3. Action Items and Assignments:**
+- Minh to continue testing the API.
+- Trang to resolve the frontend display issue and update progress on Jira by this afternoon.
+- Anna to contact Huy for access permissions for Trang.
+
+**4. Any Important Deadlines Mentioned:**
+- Updates on Jira are expected by the end of the day (before afternoon).
+
+Summary for: transcripts/meeting3.txt
+================================================================================
+**Meeting Summary: Architecture Review**
+
+1. **Main Topics Discussed:**
+   - Proposed changes to the system architecture.
+   - Current bottlenecks, particularly in the database layer.
+   - Potential implementation of caching for performance improvement.
+   - Discussion on transitioning to a microservices architecture.
+   - Security considerations including the need for an API gateway and rate limiting.
+
+2. **Key Decisions Made:**
+   - Agreement to move towards a microservices architecture to address scaling issues.
+   - Decision to implement caching to enhance performance.
+   - Consensus on the necessity of an API gateway and rate limiting for security.
+
+3. **Action Items and Assignments:**
+   - Draft a detailed proposal outlining the architecture changes (Assigned to Alex).
+   - Conduct further analysis on the implications of moving to a microservices architecture (Assigned to Linda).
+
+4. **Important Deadlines Mentioned:**
+   - Target timeline for implementation is set for Q1 of the next year.
+
+Summary for: transcripts/meeting4.txt
+================================================================================
+**Meeting Summary: Budget Planning 2026**
+
+1. **Main Topics Discussed:**
+   - Technology budget for 2026
+   - Increased spending on cloud infrastructure
+   - Budget allocation for AI/ML initiatives
+
+2. **Key Decisions Made:**
+   - Agreement on the need for increased cloud infrastructure spending due to a 40% rise in usage.
+   - Approval of proposed budget increases: 30% for cloud infrastructure and 15% for new AI projects, along with a 10% buffer for unexpected scaling.
+
+3. **Action Items and Assignments:**
+   - Prepare a detailed breakdown of the proposed budget increases for submission to the finance department.
+
+4. **Important Deadlines Mentioned:**
+   - No specific deadlines were mentioned in the transcript.
+
+Summary for: transcripts/meeting5.txt
+================================================================================
+**Meeting Summary: Team Training Planning**
+
+1. **Main Topics Discussed:**
+   - Planning the Q4 training schedule.
+   - Focus on new technology stack and certifications.
+   - Specific training requests for cloud certifications and frontend workshops.
+
+2. **Key Decisions Made:**
+   - Prioritized training on Azure and AWS cloud certifications.
+   - Agreed to schedule weekly training sessions starting next week.
+
+3. **Action Items and Assignments:**
+   - James will lead the cloud certification sessions (Azure and AWS).
+   - Sophie will handle the workshops for React and Node.js.
+   - Rachel will oversee the overall training schedule.
+
+4. **Important Deadlines Mentioned:**
+   - Training sessions are set to start next week.
+

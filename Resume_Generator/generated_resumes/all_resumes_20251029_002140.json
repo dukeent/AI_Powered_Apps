@@ -1,0 +1,145 @@
+[
+  {
+    "success": true,
+    "user_data": {
+      "name": "Alex Johnson",
+      "email": "alex.johnson@email.com",
+      "phone": "+1 (555) 123-4567",
+      "job_title": "Senior Software Engineer",
+      "years_experience": 7,
+      "skills": [
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Docker",
+        "AWS",
+        "MongoDB",
+        "Git"
+      ],
+      "experience": [
+        {
+          "title": "Senior Software Engineer",
+          "company": "TechCorp Inc.",
+          "duration": "2020-Present",
+          "description": "Led development of microservices architecture, improved system performance by 40%"
+        },
+        {
+          "title": "Software Engineer",
+          "company": "StartupXYZ",
+          "duration": "2017-2020",
+          "description": "Developed full-stack web applications, mentored junior developers"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Science",
+          "field": "Computer Science",
+          "institution": "State University",
+          "year": "2017"
+        }
+      ],
+      "summary": "Passionate software engineer with 7 years of experience building scalable web applications and leading development teams."
+    },
+    "resume": "Alex Johnson\n\nContact Information:\n\nEmail: alex.johnson@email.com\nPhone: +1 (555) 123-4567\n\nProfessional Summary:\n\nAs a seasoned software engineer with 7 years of experience, I am passionate about creating scalable web applications and leading development teams to success. With expertise in Python, JavaScript, React, Node.js, Docker, AWS, MongoDB, and Git, I have consistently delivered high-quality solutions that exceed client expectations. My experience in mentoring junior developers has also honed my leadership skills, enabling me to effectively manage teams and projects.\n\nSkills:\n\n* Python\n* JavaScript\n* React\n* Node.js\n* Docker\n* AWS\n* MongoDB\n* Git\n\nWork Experience:\n\nSenior Software Engineer, TechCorp Inc. (2020-Present)\n\n* Led development of microservices architecture, resulting in a 40% improvement in system performance\n* Collaborated with cross-functional teams to deliver high-quality software solutions\n* Mentored junior developers, providing guidance and support to help them grow professionally\n\nSoftware Engineer, StartupXYZ (2017-2020)\n\n* Developed full-stack web applications using Python, JavaScript, and React\n* Worked closely with designers and product managers to ensure software met client requirements\n* Mentored junior developers, providing guidance and support to help them grow professionally",
+    "timestamp": "2025-10-29T00:20:40.667281",
+    "generation_id": 1
+  },
+  {
+    "success": true,
+    "user_data": {
+      "name": "Sarah Chen",
+      "email": "sarah.chen@email.com",
+      "phone": "+1 (555) 987-6543",
+      "job_title": "Data Scientist",
+      "years_experience": 5,
+      "skills": [
+        "Python",
+        "R",
+        "Machine Learning",
+        "TensorFlow",
+        "SQL",
+        "Tableau",
+        "Statistics",
+        "Deep Learning"
+      ],
+      "experience": [
+        {
+          "title": "Data Scientist",
+          "company": "DataDrive Analytics",
+          "duration": "2021-Present",
+          "description": "Built predictive models for customer churn, increased retention by 25%"
+        },
+        {
+          "title": "Junior Data Analyst",
+          "company": "Marketing Insights Co.",
+          "duration": "2019-2021",
+          "description": "Analyzed customer data and created dashboards for business intelligence"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Master of Science",
+          "field": "Data Science",
+          "institution": "Tech University",
+          "year": "2019"
+        }
+      ],
+      "summary": "Data scientist specializing in machine learning and predictive analytics with proven track record of driving business value."
+    },
+    "resume": "Sarah Chen\nEmail: sarah.chen@email.com\nPhone: +1 (555) 987-6543\n\nProfessional Summary:\nAs a seasoned data scientist with a strong background in machine learning and predictive analytics, I specialize in leveraging data to drive business value. With a proven track record of increasing retention by 25% and creating dashboards for business intelligence, I am dedicated to helping organizations make data-driven decisions.\n\nSkills:\n* Python\n* R\n* Machine Learning\n* TensorFlow\n* SQL\n* Tableau\n* Statistics\n* Deep Learning\n\nWork Experience:\n\n* Data Scientist, DataDrive Analytics (2021-Present):\nBuilt predictive models for customer churn and increased retention by 25%\n\n* Junior Data Analyst, Marketing Insights Co. (2019-2021):\nAnalyzed customer data and created dashboards for business intelligence\n\nEducation:\n\n* Master of Science in Data Science, Tech University (2019)",
+    "timestamp": "2025-10-29T00:21:08.814979",
+    "generation_id": 2
+  },
+  {
+    "success": true,
+    "user_data": {
+      "name": "Michael Rodriguez",
+      "email": "michael.r@email.com",
+      "phone": "+1 (555) 456-7890",
+      "job_title": "Senior Project Manager",
+      "years_experience": 10,
+      "skills": [
+        "Agile",
+        "Scrum",
+        "JIRA",
+        "Risk Management",
+        "Stakeholder Management",
+        "Budget Planning",
+        "Team Leadership"
+      ],
+      "experience": [
+        {
+          "title": "Senior Project Manager",
+          "company": "Global Solutions Ltd.",
+          "duration": "2018-Present",
+          "description": "Managed cross-functional teams of 20+ members, delivered $5M+ projects on time and under budget"
+        },
+        {
+          "title": "Project Manager",
+          "company": "Enterprise Systems Inc.",
+          "duration": "2014-2018",
+          "description": "Led digital transformation initiatives, improved project delivery efficiency by 30%"
+        }
+      ],
+      "education": [
+        {
+          "degree": "MBA",
+          "field": "Project Management",
+          "institution": "Business School",
+          "year": "2014"
+        },
+        {
+          "degree": "PMP Certification",
+          "field": "Project Management Professional",
+          "institution": "PMI",
+          "year": "2015"
+        }
+      ],
+      "summary": "Certified PMP with 10 years of experience leading complex projects and driving organizational change."
+    },
+    "resume": "[Your Name]\nMicheal Rodriguez\n[Address]\n[City, State Zip]\n[Phone Number]\n[Email Address]\n\nProfessional Summary:\nCertified PMP with 10 years of experience leading complex projects and driving organizational change. Skilled in Agile, Scrum, JIRA, Risk Management, Stakeholder Management, Budget Planning, Team Leadership, and Project Management. Proven track record of delivering high-quality projects on time and under budget.\n\nSkills:\n\n* Agile\n* Scrum\n* JIRA\n* Risk Management\n* Stakeholder Management\n* Budget Planning\n* Team Leadership\n* Project Management\n\nWork Experience:\nSenior Project Manager, Global Solutions Ltd. (2018-Present)\n* Managed cross-functional teams of 20+ members\n* Delivered $5M+ projects on time and under budget\n\nProject Manager, Enterprise Systems Inc. (2014-2018)\n* Led digital transformation initiatives\n* Improved project delivery efficiency by 30%\n\nEducation:\nMBA in Project Management, Business School (2014)\n\nPMP Certification in Project Management Professional, PMI (2015)",
+    "timestamp": "2025-10-29T00:21:40.334178",
+    "generation_id": 3
+  }
+]

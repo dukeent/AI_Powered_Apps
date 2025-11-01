@@ -1,0 +1,10 @@
+# Azure OpenAI Function Calling Assignment Requirements
+
+# OpenAI Python Library (includes Azure OpenAI support)
+openai>=1.0.0
+
+# Retry library for handling rate limits and transient errors
+tenacity>=8.0.0
+
+# Optional: For environment variable management (recommended for production)
+python-dotenv>=1.0.0

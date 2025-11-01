@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+# Ignore temporary files
+*.log
+*.tmp
+# Ignore large model files
+llama-2-7b-chat.Q4_K_M.gguf

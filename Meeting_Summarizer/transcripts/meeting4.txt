@@ -1,0 +1,11 @@
+[11:00 AM - Budget Planning 2026]
+David: Let's discuss the technology budget for 2026.
+Maria: We need to increase cloud infrastructure spending.
+Peter: Agreed. Current usage is up 40% from last year.
+David: What's driving the increase?
+Maria: New customer accounts and increased data processing.
+Peter: Also, we need budget for AI/ML initiatives.
+David: How much are we looking at?
+Maria: Proposing 30% increase for cloud, 15% for new AI projects.
+Peter: Plus 10% buffer for unexpected scaling.
+David: Let's prepare a detailed breakdown for finance.

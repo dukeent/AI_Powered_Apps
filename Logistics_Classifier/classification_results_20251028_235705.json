@@ -1,0 +1,72 @@
+[
+  {
+    "log_id": 1,
+    "log_entry": "Driver reported heavy traffic on highway due to construction",
+    "initial_category": "Traffic",
+    "final_category": "Traffic",
+    "timestamp": "2025-10-28T23:56:53.720380"
+  },
+  {
+    "log_id": 2,
+    "log_entry": "Package not accepted, customer unavailable at given time",
+    "initial_category": "Customer Issue",
+    "final_category": "Customer Issue",
+    "timestamp": "2025-10-28T23:56:54.984694"
+  },
+  {
+    "log_id": 3,
+    "log_entry": "Vehicle engine failed during route, replacement dispatched",
+    "initial_category": "Vehicle Issue",
+    "final_category": "Vehicle Issue",
+    "timestamp": "2025-10-28T23:56:56.323930"
+  },
+  {
+    "log_id": 4,
+    "log_entry": "Unexpected rainstorm delayed loading at warehouse",
+    "initial_category": "Weather",
+    "final_category": "Weather",
+    "timestamp": "2025-10-28T23:56:57.717814"
+  },
+  {
+    "log_id": 5,
+    "log_entry": "Sorting label missing, required manual barcode scan",
+    "initial_category": "Sorting/Labeling Error",
+    "final_category": "Sorting/Labeling Error",
+    "timestamp": "2025-10-28T23:56:58.932494"
+  },
+  {
+    "log_id": 6,
+    "log_entry": "Driver took a wrong turn and had to reroute",
+    "initial_category": "Human Error",
+    "final_category": "Human Error",
+    "timestamp": "2025-10-28T23:57:00.163146"
+  },
+  {
+    "log_id": 7,
+    "log_entry": "No issue reported, arrived on time",
+    "initial_category": "Other",
+    "final_category": "Other",
+    "timestamp": "2025-10-28T23:57:01.495115"
+  },
+  {
+    "log_id": 8,
+    "log_entry": "Address was incorrect, customer unreachable",
+    "initial_category": "Customer Issue",
+    "final_category": "Customer Issue",
+    "timestamp": "2025-10-28T23:57:02.834604"
+  },
+  {
+    "log_id": 9,
+    "log_entry": "System glitch during check-in at loading dock",
+    "initial_category": "Technical System Failure",
+    "final_category": "Technical System Failure",
+    "timestamp": "2025-10-28T23:57:04.313387"
+  },
+  {
+    "log_id": 10,
+    "log_entry": "Road accident caused a long halt near delivery point",
+    "initial_category": "Traffic",
+    "final_category": "Traffic",
+    "timestamp": "2025-10-28T23:57:05.520222"
+  }
+]

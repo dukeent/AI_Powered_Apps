@@ -1,0 +1,28 @@
+Sarah Chen
+Email: sarah.chen@email.com
+Phone: +1 (555) 987-6543
+
+Professional Summary:
+As a seasoned data scientist with a strong background in machine learning and predictive analytics, I specialize in leveraging data to drive business value. With a proven track record of increasing retention by 25% and creating dashboards for business intelligence, I am dedicated to helping organizations make data-driven decisions.
+
+Skills:
+* Python
+* R
+* Machine Learning
+* TensorFlow
+* SQL
+* Tableau
+* Statistics
+* Deep Learning
+
+Work Experience:
+
+* Data Scientist, DataDrive Analytics (2021-Present):
+Built predictive models for customer churn and increased retention by 25%
+
+* Junior Data Analyst, Marketing Insights Co. (2019-2021):
+Analyzed customer data and created dashboards for business intelligence
+
+Education:
+
+* Master of Science in Data Science, Tech University (2019)

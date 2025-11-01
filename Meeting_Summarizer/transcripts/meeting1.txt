@@ -1,0 +1,8 @@
+[09:00 AM - Product Team Standup]
+John: Good morning everyone. Let's go through our sprint progress.
+Sarah: I've completed the user authentication module. All tests are passing.
+Mike: Working on the dashboard UI, about 70% done. Need some clarification on the chart requirements.
+John: Sure, let's discuss that after the standup. Any blockers?
+Sarah: No blockers from my side.
+Mike: Just need the final design specs for the charts.
+John: Got it. I'll share those by noon. Let's wrap up then.
