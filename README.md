@@ -19,6 +19,10 @@ This repository contains a collection of AI-powered applications designed to sol
 5. **Logistics Classifier**
    - Classifies and analyzes logistics data for better decision-making.
 
+6. **Text-to-Speech Generator**
+   - Converts text to natural-sounding speech using Hugging Face models.
+   - Supports multiple languages including Vietnamese and English.
+
 ## Structure
 
 Each application is self-contained with its own dependencies and documentation. Navigate to the respective folders for more details:
@@ -28,6 +32,7 @@ Each application is self-contained with its own dependencies and documentation. 
 - `Itinerary_Planner/`
 - `Resume_Generator/`
 - `Logistics_Classifier/`
+- `Text_To_Speech_Generator/`
 
 ## Setup
 
