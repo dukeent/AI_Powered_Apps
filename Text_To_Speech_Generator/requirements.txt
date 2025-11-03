@@ -1,0 +1,15 @@
+# Text-to-Speech (TTS) Generator - Requirements
+
+# Core Dependencies
+transformers>=4.35.0
+torch>=2.0.0
+soundfile>=0.12.1
+
+# Audio Processing
+IPython>=8.12.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Note: Install instructions
+# pip install -r requirements.txt
